@@ -1,0 +1,50 @@
+body {
+  padding: 10px;
+}
+
+h1 {
+  text-align: center;
+  font-size: 2rem;
+  font-weight: bold;
+  color: purple;
+}
+
+.personal-data {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+}
+
+#dados {
+  margin-left: 30px;
+  list-style-type: disc;
+}
+
+table,
+tr,
+th,
+td {
+  padding: 5px;
+  border: 1px solid gray;
+}
+
+th {
+  font-weight: bold;
+  text-align: center;
+}
+
+img {
+  border-radius: 50%;
+  border-right: 50px;
+}
+
+ul {
+  list-style-type: square;
+  padding: 20px;
+}
+
+.emphasis {
+  font-weight: bold;
+  color: darkgreen;
+}
