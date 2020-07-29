@@ -1,0 +1,23 @@
+body {
+  padding: 30px;
+}
+
+h1 {
+  text-align: center;
+}
+
+#search-box {
+  width: 90%;
+}
+
+#search-button {
+  float: right;
+}
+
+#users {
+  float: left;
+}
+
+#statistics {
+  float: right;
+}
